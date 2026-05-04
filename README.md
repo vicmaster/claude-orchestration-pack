@@ -87,3 +87,7 @@ MIT — see [LICENSE](LICENSE).
 ## Contributing
 
 Issues and PRs welcome. The pack is intentionally minimal; if you have stack-specific tweaks (Rails, Next.js, etc.), open an issue with the use case before sending a PR.
+
+## Who built this
+
+Built by [Victor Velazquez](https://github.com/vicmaster) — COO at [MagmaLabs](https://www.magmalabs.io), working on AI agent platforms. Follow me on X [@zazvick](https://x.com/zazvick) and say hi! 👋
