@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Claude Code local state (these would only exist if someone runs Claude in this repo)
+.claude/projects/
+.claude/settings.local.json
+
+# Artifact directories — only relevant when the pack is INSTALLED in a project,
+# not in the pack repo itself, but listing them helps users gitignore in their own projects
+# .tickets/
+# .architecture/
+# .design/
