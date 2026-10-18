@@ -90,7 +90,7 @@ Issues and PRs welcome. The pack is intentionally minimal; if you have stack-spe
 
 ## Who built this
 
-Built by [Victor Velazquez](https://github.com/vicmaster) — COO at [MagmaLabs](https://www.magmalabs.io), working on AI agent platforms. Follow me on X [@zazvick](https://x.com/zazvick) and say hi! 👋
+Built by [Victor Velázquez](https://victorvelazquez.dev) — COO at [MagmaLabs](https://www.magmalabs.io) and author of [*The Agentic Engineer*](https://leanpub.com/theagenticengineer), working on AI agent platforms. Follow me on X [@zazvick](https://x.com/zazvick) and say hi! 👋
 
 ## Discussion
 
